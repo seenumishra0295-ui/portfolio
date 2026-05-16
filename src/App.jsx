@@ -213,13 +213,55 @@ backdrop-blur-xl bg-black/20 border-b border-white/10">
         <p className="text-gray-300 leading-8 text-lg">
           <div className="mt-8 space-y-4 text-lg">
 
-  <p className="text-cyan-400">
-    📧 seenumishra0295@gmail.com
-  </p>
+  <div className="mt-8 space-y-5 text-lg">
 
-  <p className="text-cyan-400">
-    📱 +91 9572418987
-  </p>
+  <a
+    href="mailto:yourmail@gmail.com"
+    className="block text-cyan-400 hover:text-cyan-300 duration-300"
+  >
+    📧 yourmail@gmail.com
+  </a>
+
+  <a
+    href="tel:+919876543210"
+    className="block text-cyan-400 hover:text-cyan-300 duration-300"
+  >
+    📱 +91 9876543210
+  </a>
+
+  <a
+    href="https://wa.me/919876543210"
+    target="_blank"
+    className="block text-green-400 hover:text-green-300 duration-300"
+  >
+    💬 WhatsApp Chat
+  </a>
+
+  <a
+    href="https://instagram.com/yourusername"
+    target="_blank"
+    className="block text-pink-400 hover:text-pink-300 duration-300"
+  >
+    📸 Instagram
+  </a>
+
+  <a
+    href="https://linkedin.com/in/yourusername"
+    target="_blank"
+    className="block text-blue-400 hover:text-blue-300 duration-300"
+  >
+    💼 LinkedIn
+  </a>
+
+  <a
+    href="https://github.com/yourusername"
+    target="_blank"
+    className="block text-gray-300 hover:text-white duration-300"
+  >
+    💻 GitHub
+  </a>
+
+</div>
 
 </div>
 
